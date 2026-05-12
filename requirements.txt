@@ -8,4 +8,20 @@ pdfminer.six
 jq
 beautifulsoup4
 lxml
+
+langchain-core
+langchain-text-splitters
+langchain-experimental
+
+# OpenAI integration (for models and embeddings)
+langchain-openai
+python-dotenv
+
+# Token counting for text splitters
+tiktoken
+
+# kernel for jupyter noteboks
 ipykernel
+
+# colored text in terminal
+termcolor
