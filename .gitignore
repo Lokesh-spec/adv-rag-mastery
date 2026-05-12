@@ -16,3 +16,6 @@ uv.lock
 # notes
 notes
 notes/*
+
+
+.env
