@@ -25,3 +25,6 @@ ipykernel
 
 # colored text in terminal
 termcolor
+
+# langchain ollama
+langchain-ollama
