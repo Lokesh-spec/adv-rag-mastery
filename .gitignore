@@ -21,3 +21,5 @@ notes/*
 .env
 lab_notes/*
 03_embeddings/Openclaw_Research_Report.pdf
+04_vector_stores/documents/beyond-chatbots-ai-agents-next-real-shift.pdf
+04_vector_stores/notebooks/chroma_langchain_db

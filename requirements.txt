@@ -28,3 +28,6 @@ termcolor
 
 # langchain ollama
 langchain-ollama
+
+# langchain Chroma
+langchain-chroma
